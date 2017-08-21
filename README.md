@@ -1,2 +1,2 @@
 # Hello
-This is to practive using git with source tree
+This is to practice using git with source tree
